@@ -1,6 +1,6 @@
 # cl-fnl
 
-Common Lisp bindings for [FastNoiseLite](https://github.com/Auburn/FastNoiseLite). 
+Common Lisp bindings for [FastNoiseLite](https://github.com/Auburn/FastNoiseLite) generated with [cl-autowrap](https://github.com/rpav/cl-autowrap).
 
 ## Usage 
 
